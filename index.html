@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Story Suite</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- NAVBAR -->
+<header class="navbar">
+    <div class="logo" onclick="scrollToTop()">AI Story Suite</div>
+
+    <nav>
+        <button class="nav-btn" onclick="goToEvaluation()">Evaluation</button>
+        <button class="nav-btn secondary" onclick="goToGenerator()">USGenerate</button>
+    </nav>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+    <div class="hero-content">
+        <h1>Build & Evaluate User Stories with AI 🚀</h1>
+        <p>Generate powerful user stories and evaluate them with real AI metrics.</p>
+
+        <div class="hero-buttons">
+            <button class="primary-btn" onclick="goToEvaluation()">Start Evaluation</button>
+            <button class="secondary-btn" onclick="goToGenerator()">Generate Stories</button>
+        </div>
+    </div>
+
+    <div class="hero-bg"></div>
+</section>
+
+<!-- FEATURES -->
+<section class="features">
+    <h2>Features</h2>
+
+    <div class="card-container">
+
+        <div class="card">
+            <h3>AI Evaluation</h3>
+            <p>Accuracy, Precision, Recall & F1 Score with smart analysis.</p>
+        </div>
+
+        <div class="card">
+            <h3>Smart Generator</h3>
+            <p>AI generates structured stories with acceptance criteria.</p>
+        </div>
+
+        <div class="card">
+            <h3>Excel Export</h3>
+            <p>Download your results instantly in Excel format.</p>
+        </div>
+
+    </div>
+</section>
+
+<!-- WORKING SECTION -->
+<section class="working">
+    <h2>How It Works</h2>
+
+    <div class="working-container">
+
+        <!-- Step 1 -->
+        <div class="working-card">
+            <h3>1️⃣ Choose Your Tool</h3>
+            <p>
+                Select whether you want to evaluate existing user stories 
+                or generate new ones using AI.
+            </p>
+        </div>
+
+        <!-- Step 2: Evaluation -->
+        <div class="working-card">
+            <h3>2️⃣ Evaluate User Stories</h3>
+            <p>
+                Click “Start Evaluation” to open the Evaluation Project. 
+                Upload or input your user stories to get AI metrics like 
+                Accuracy, Precision, Recall & F1 Score.
+            </p>
+            <button onclick="goToEvaluation()">Start Evaluation</button>
+        </div>
+
+        <!-- Step 3: USGenerate -->
+        <div class="working-card">
+            <h3>3️⃣ Generate New Stories</h3>
+            <p>
+                Click “Generate Stories” to open the USGenerate Project. 
+                AI will help you create structured user stories with 
+                acceptance criteria.
+            </p>
+            <button onclick="goToGenerator()">Generate Stories</button>
+        </div>
+
+    </div>
+</section>
+
+<!-- SERVICES -->
+<section class="services">
+    <h2>Why Choose Us</h2>
+
+    <div class="service-container">
+        <div class="service">⚡ Fast AI Processing</div>
+        <div class="service">🎯 High Accuracy Models</div>
+        <div class="service">🎨 Clean UI Experience</div>
+    </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+    <p>© 2026 AI Story Suite | Designed with ❤️</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
