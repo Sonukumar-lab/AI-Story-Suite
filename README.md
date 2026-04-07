@@ -210,6 +210,6 @@ This project represents a **complete AI-driven product workflow**:
 
 👉 Generate → Export → Evaluate → Improve
 
-A perfect combination of **AI + ML + Full Stack Development** 🚀
+A perfect combination of **AI + Full Stack Development** 🚀
 
 ---
