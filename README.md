@@ -23,14 +23,25 @@ This project is divided into two major modules:
 
 # 🧠 Project Overview
 
-This platform is designed to simplify the process of:
+This platform is designed to **simplify and streamline the software development process** by focusing on user stories.
 
-✔ Generating structured user stories using AI
-✔ Evaluating user stories with ML-based metrics
-✔ Improving software requirement quality
-✔ Automating repetitive tasks
+## Key Features
 
-It combines **AI generation + ML evaluation** into one seamless workflow.
+✔ **AI-Powered User Story Generation**  
+Automatically generate well-structured user stories using artificial intelligence.
+
+✔ **ML-Based Evaluation**  
+Evaluate user stories with machine learning metrics to ensure quality and completeness.
+
+✔ **Requirement Quality Improvement**  
+Suggest improvements to make software requirements clearer, more actionable, and testable.
+
+✔ **Task Automation**  
+Reduce repetitive work by automating parts of the user story creation and evaluation workflow.
+
+## Workflow
+
+The platform combines **AI generation** and **ML evaluation** into a seamless, end-to-end workflow for better efficiency and higher-quality requirements.
 
 ---
 
