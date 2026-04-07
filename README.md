@@ -41,7 +41,7 @@ Reduce repetitive work by automating parts of the user story creation and evalua
 
 ## Workflow
 
-The platform combines **AI generation** and **ML evaluation** into a seamless, end-to-end workflow for better efficiency and higher-quality requirements.
+The platform combines **AI generation** and **AI evaluation** into a seamless, end-to-end workflow for better efficiency and higher-quality requirements.
 
 ---
 
@@ -61,7 +61,7 @@ The platform combines **AI generation** and **ML evaluation** into a seamless, e
 ## 🔹 User Story Evaluation
 
 * Upload Excel file for evaluation
-* AI/ML-based evaluation system
+* AI-based evaluation system
 * Metrics calculation:
 
   * Accuracy
