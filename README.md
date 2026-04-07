@@ -30,8 +30,8 @@ This platform is designed to **simplify and streamline the software development 
 ✔ **AI-Powered User Story Generation**  
 Automatically generate well-structured user stories using artificial intelligence.
 
-✔ **ML-Based Evaluation**  
-Evaluate user stories with machine learning metrics to ensure quality and completeness.
+✔ **AI/LLM-Based Evaluation**  
+Evaluate user stories using large language models (LLMs) to ensure quality, clarity, and completeness.
 
 ✔ **Requirement Quality Improvement**  
 Suggest improvements to make software requirements clearer, more actionable, and testable.
